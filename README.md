@@ -6,3 +6,4 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 Task 2:PREDICTION USING DECISION TREE ALGORITHM(2nd task in intermediate level).
 I have created the Decision Tree classifier and visualize it graphically.The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly using Decision Tree Algorithm.
+Dataset : https://bit.ly/3kXTdox
